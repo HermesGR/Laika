@@ -2,5 +2,47 @@
 
 #EXTM3U
 
-#EXTINF:1, ΠΟΥΛΑ ΜΕ - ΠΥΞ ΛΑΞ
-plugin://plugin.video.youtube/?action=play_video&videoid=ln74ZNteZ38
+#EXTINF:1, ΤΟ ΜΕΡΤΙΚΟ ΜΟΥ ΑΠ'ΤΗ ΧΑΡΑ - ΣΤ.ΚΑΖΑΝΤΖΙΔΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=D2-cqeE2TWE
+
+#EXTINF:1, ΥΠΑΡΧΩ - ΣΤ.ΚΑΖΑΝΤΖΙΔΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=eLt9qwkhqvI
+
+#EXTINF:1, ΣΤΟ ΑΔΕΙΟ ΜΟΥ ΠΑΚΕΤΟ - Φ.ΝΙΚΟΛΑΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=TV0QHFOXhBA
+
+#EXTINF:1, ΤΑ ΛΑΔΑΔΙΚΑ - Δ.ΜΗΤΡΟΠΑΝΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=8pBfxjei5hY
+
+#EXTINF:1, ΦΕΥΓΟΝΤΑΣ - Π.ΤΕΡΖΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=2QiKpu9LRO8
+
+#EXTINF:1, ΝΥΧΤΑ ΞΕΛΟΓΙΑΣΤΡΑ - Β.ΚΑΡΡΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=rVq4o24X_iU
+
+#EXTINF:1, ΤΟ ΑΓΡΙΟΛΟΥΛΟΥΔΟ - ΣΤ.ΚΑΖΑΝΤΖΙΔΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=HUyLWPp4lFI
+
+#EXTINF:1, ΓΕΝΕΘΛΙΑ - Ν.ΣΦΑΚΙΑΝΑΚΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=67KPd00ES8Q
+
+#EXTINF:1, Ο ΑΕΤΟΣ - Ν.ΣΦΑΚΙΑΝΑΚΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=HTTamH79gP4
+
+#EXTINF:1, ΑΚΟΥ ΒΡΕ ΦΙΛΕ - ΣΤ.ΔΙΟΝΥΣΙΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=u3AbH5cP46I
+
+#EXTINF:1, ΜΕ ΣΚΟΤΩΣΕ ΓΙΑΤΙ ΤΗΝ ΑΓΑΠΟΥΣΑ - ΣΤ.ΔΙΟΝΥΣΙΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=6cp3sgDhCdg
+
+#EXTINF:1, ΚΑΝΕΙΣ ΕΔΩ ΔΕΝ ΤΡΑΓΟΥΔΑ - Ν.ΠΑΠΑΖΟΓΛΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=KswYibDM8Cw
+
+#EXTINF:1, ΣΤΩΝ ΑΓΓΕΛΩΝ ΤΑ ΜΠΟΥΖΟΥΚΙΑ - Χ.ΝΙΚΟΛΟΠΟΥΛΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=gAaXrjEeLEU
+
+#EXTINF:1, ΔΕΝ ΥΠΑΡΧΟΥΝ ΑΓΓΕΛΟΙ - Κ.ΚΟΥΚΑ 
+plugin://plugin.video.youtube/?action=play_video&videoid=UIrPMj-zc0I
+
+#EXTINF:1, ΣΩΜΑ ΜΟΥ - Ν.ΣΦΑΚΙΑΝΑΚΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=7qBWsKLMJT0
